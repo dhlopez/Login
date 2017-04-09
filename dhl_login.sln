@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dhl_login", "dhl_login\dhl_login.csproj", "{654C796D-7C61-4206-99BD-F34F01AA93BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{654C796D-7C61-4206-99BD-F34F01AA93BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654C796D-7C61-4206-99BD-F34F01AA93BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654C796D-7C61-4206-99BD-F34F01AA93BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654C796D-7C61-4206-99BD-F34F01AA93BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

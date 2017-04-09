@@ -1,0 +1,116 @@
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\ApplicationInsights.config
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\roslyn\csc.exe
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\roslyn\System.Collections.Immutable.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\roslyn\System.Reflection.Metadata.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\roslyn\vbc.exe
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\roslyn\VBCSCompiler.exe
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\roslyn\VBCSCompiler.exe.config
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\dhl_login.dll.config
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\dhl_login.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\dhl_login.pdb
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\EntityFramework.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\EntityFramework.SqlServer.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.AI.DependencyCollector.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.AI.Web.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.AI.WindowsServer.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.ApplicationInsights.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\EntityFramework.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\EntityFramework.SqlServer.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.AI.DependencyCollector.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.AI.Web.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.AI.WindowsServer.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.ApplicationInsights.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\obj\Debug\dhl_login.csprojResolveAssemblyReference.cache
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\obj\Debug\dhl_login.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\obj\Debug\dhl_login.pdb
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.Owin.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.Owin.Security.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Newtonsoft.Json.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Owin.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\System.Net.Http.Formatting.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\System.Web.Http.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\System.Web.Http.Owin.dll
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.Owin.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.Owin.Security.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\Newtonsoft.Json.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\System.Net.Http.Formatting.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\System.Web.Http.xml
+E:\Niagara College\Term III\RAD\week11 - login\dhl_login\dhl_login\bin\System.Web.Http.Owin.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\ApplicationInsights.config
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\roslyn\csc.exe
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\roslyn\System.Collections.Immutable.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\roslyn\System.Reflection.Metadata.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\roslyn\vbc.exe
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\roslyn\VBCSCompiler.exe
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\roslyn\VBCSCompiler.exe.config
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\dhl_login.dll.config
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\dhl_login.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\dhl_login.pdb
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\EntityFramework.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\EntityFramework.SqlServer.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.AI.DependencyCollector.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.AI.Web.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.AI.WindowsServer.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.ApplicationInsights.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.Owin.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.Owin.Security.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Newtonsoft.Json.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Owin.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\System.Net.Http.Formatting.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\System.Web.Http.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\System.Web.Http.Owin.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\EntityFramework.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\EntityFramework.SqlServer.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.AI.DependencyCollector.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.AI.Web.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.AI.WindowsServer.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.ApplicationInsights.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.Owin.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.Owin.Security.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\Newtonsoft.Json.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\System.Net.Http.Formatting.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\System.Web.Http.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\bin\System.Web.Http.Owin.xml
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\obj\Debug\dhl_login.csprojResolveAssemblyReference.cache
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\obj\Debug\dhl_login.dll
+F:\Niagara College\Term III\Project Planning\TeamProject\LoginV1\dhl_login\dhl_login\obj\Debug\dhl_login.pdb
